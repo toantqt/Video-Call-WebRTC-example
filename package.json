@@ -1,0 +1,24 @@
+{
+  "name": "video-call-webrtc-example",
+  "version": "1.0.0",
+  "description": "NodeJS-WebRTC",
+  "main": "main.js",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "socketio": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toantqt/Video-Call-WebRTC-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toantqt/Video-Call-WebRTC-example/issues"
+  },
+  "homepage": "https://github.com/toantqt/Video-Call-WebRTC-example#readme"
+}
